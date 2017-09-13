@@ -1,0 +1,1 @@
+# MagicAds-php-sdk
